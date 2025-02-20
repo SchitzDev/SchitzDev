@@ -60,4 +60,4 @@ Obrigado por visitar meu perfil! Se você gostou do meu trabalho ou quer colabor
 
 > "A programação é a arte de ensinar máquinas a resolver problemas."
 
----
+--- 
