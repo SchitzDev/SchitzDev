@@ -50,7 +50,7 @@ Estou sempre em busca de novos desafios e conhecimentos. Atualmente, estou focad
 ### 🤝 Conecte-se comigo:
 Adoro conversar sobre tecnologia, compartilhar ideias e colaborar em projetos. Sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:
 
-- **Whatsapp** [+55 41 9 9957-7009(https://wa.me/554199577009?text=%F0%9F%91%8B%20Ol%C3%A1%20Bruno!%20Vim%20pelo%20GitHub.)]
+- **Whatsapp** [+55 41 9 9957-7009](https://wa.me/554199577009?text=%F0%9F%91%8B%20Ol%C3%A1%20Bruno!%20Vim%20pelo%20GitHub.)
 - **GitHub:** [github.com/brunoschitz](https://github.com/brunoschitz)  
 - **E-mail:** [obruno.schitz@gmail.com](mailto:obruno.schitz@gmail.com)  
 
